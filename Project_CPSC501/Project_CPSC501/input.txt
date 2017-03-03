@@ -1,0 +1,7 @@
+6 2 4
+Green		60
+Red			40
+SleepingCat 20
+Bowl		50
+Arrow		20
+Mouse		10

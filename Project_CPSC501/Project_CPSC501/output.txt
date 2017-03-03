@@ -1,0 +1,176 @@
+
+*************************************
+Time instant: 0
+Number of tables: 7
+Current number of players: 0
+Total number of finished games: 0
+Total number of players so far: 0
+
+*************************************
+Time instant: 1
+Number of tables: 7
+Current number of players: 25
+Total number of finished games: 0
+Total number of players so far: 25
+
+*************************************
+Time instant: 2
+Number of tables: 7
+Current number of players: 25
+Total number of finished games: 0
+Total number of players so far: 25
+
+*************************************
+Time instant: 3
+Number of tables: 7
+Current number of players: 28
+Total number of finished games: 2
+Total number of players so far: 32
+Biggest winner: Player 8
+Biggest number of mice won: 6
+
+*************************************
+Time instant: 4
+Number of tables: 7
+Current number of players: 28
+Total number of finished games: 3
+Total number of players so far: 35
+Biggest winner: Player 8
+Biggest number of mice won: 6
+
+*************************************
+Time instant: 5
+Number of tables: 7
+Current number of players: 28
+Total number of finished games: 7
+Total number of players so far: 49
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 6
+Number of tables: 7
+Current number of players: 28
+Total number of finished games: 7
+Total number of players so far: 49
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 7
+Number of tables: 7
+Current number of players: 26
+Total number of finished games: 10
+Total number of players so far: 58
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 8
+Number of tables: 7
+Current number of players: 25
+Total number of finished games: 12
+Total number of players so far: 65
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 9
+Number of tables: 7
+Current number of players: 25
+Total number of finished games: 14
+Total number of players so far: 71
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 10
+Number of tables: 7
+Current number of players: 22
+Total number of finished games: 16
+Total number of players so far: 76
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 11
+Number of tables: 7
+Current number of players: 23
+Total number of finished games: 19
+Total number of players so far: 86
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 12
+Number of tables: 7
+Current number of players: 24
+Total number of finished games: 21
+Total number of players so far: 93
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 13
+Number of tables: 7
+Current number of players: 31
+Total number of finished games: 24
+Total number of players so far: 109
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 14
+Number of tables: 7
+Current number of players: 32
+Total number of finished games: 25
+Total number of players so far: 113
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 15
+Number of tables: 7
+Current number of players: 32
+Total number of finished games: 26
+Total number of players so far: 116
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 16
+Number of tables: 7
+Current number of players: 28
+Total number of finished games: 28
+Total number of players so far: 121
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 17
+Number of tables: 7
+Current number of players: 30
+Total number of finished games: 29
+Total number of players so far: 127
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 18
+Number of tables: 7
+Current number of players: 34
+Total number of finished games: 32
+Total number of players so far: 140
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+*************************************
+Time instant: 19
+Number of tables: 7
+Current number of players: 26
+Total number of finished games: 35
+Total number of players so far: 147
+Biggest winner: Player 32
+Biggest number of mice won: 8
+
+		**** END OF SIMULATION TIME ****
